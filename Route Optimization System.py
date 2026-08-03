@@ -1,6 +1,6 @@
 import tkinter as tk
 import heapq
-# this project is about finding the fastest route for an ambulance to reach a hospital using the A* algorithm. The graph represents locations and their connections, while the heuristic provides an estimate of the distance to the hospital.
+
 
 graph = {
     'A': {'B': 4, 'C': 2},
