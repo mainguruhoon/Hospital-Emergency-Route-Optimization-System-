@@ -64,7 +64,7 @@ window = tk.Tk()
 window.title("🚑Emergency Route For Ambulance ")
 window.geometry("600x500")
 
-# Canvas for drawing graph and nodes
+
 canvas = tk.Canvas(window, width=600, height=350, bg="white")
 canvas.pack()
 
